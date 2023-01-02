@@ -1,9 +1,0 @@
-@font-face{
-    font-family: 'zhuziAwan';
-    font-display: swap;
-    src: url('../font/zhuziAwan.ttf') format("truetype");
-}
-
-body {
-    font-family: "zhuziAwan";
-}
